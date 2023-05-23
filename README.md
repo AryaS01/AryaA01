@@ -1,4 +1,4 @@
-# AryaA01
+# AryaS01
 <h1 align="center">Hi 👋, I'm Arya</h1>
 <h3 align="center">I'm a second-year B.Tech CSE student with a strong passion for web development.</h3>
 
