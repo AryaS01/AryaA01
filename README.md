@@ -1,9 +1,6 @@
 # AryaA01
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://https://github.com/AryaS01"><img alt="Arya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Arya&custom_title=Arya's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arya&show_icons=true&locale=en&layout=compact" alt="Arya S" /></p>
 
-</details>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Arya&show_icons=true&locale=en" alt="Arya" /></p>
 
-<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arya&" alt="Arya" /></p>
