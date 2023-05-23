@@ -1,7 +1,7 @@
 # AryaA01
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/sreejithdikru"><img alt="Dikru's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sreejithliterally&custom_title=Dikru's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://https://github.com/AryaS01"><img alt="Arya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Arya&custom_title=Arya's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
