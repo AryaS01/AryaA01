@@ -1,6 +1,6 @@
 # AryaS01
 <h1 align="center">Hi 👋, I'm Arya</h1>
-<h3 align="center">I'm a fourth-year B.Tech CSE student with a strong passion for web development.</h3>
+<h3 align="center">I'm a fourth-year B.Tech CSE student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AryS01&label=Profile%20views&color=0e75b6&style=flat" alt="AryaS01" /> </p>
 
