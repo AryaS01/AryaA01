@@ -8,7 +8,6 @@
 
 
 
-- 🌱 I’m currently learning *Web development*
 
 - ⚡ Fun factor *I turn caffeine into code with a  dash of creativity.*
 
